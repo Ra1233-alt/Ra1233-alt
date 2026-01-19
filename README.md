@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=HELLO%20WORLD&fontSize=50&fontColor=ffffff" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Kiran!</h1>
+<h1 align="center">👋 Hi, I'm Ratnakar Choubey!</h1>
 <h3 align="center">Full Stack .NET Core Developer | Angular Specialist</h3>
 
 ---
@@ -48,26 +48,15 @@
 ---
 
 ### 🌐 Connect With Me
-- 🌍 Portfolio: **https://yourusername.github.io**
-- 📧 Email: **yourmail@gmail.com**
-- 💼 LinkedIn: **https://linkedin.com/in/yourusername**
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
-</p>
+- 🌍 Portfolio: **https://github.com/Ra1233-alt**
+- 📧 Email: **ratnakartsm@gmail.com**
+- 💼 LinkedIn: **www.linkedin.com/in/ratnakar-choubey-71806a2ab**
 
 ---
 
 ### 👀 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=brightgreen" />
+  <img src="https://komarev.com/ghpvc/?username=Ra1233-alt&color=brightgreen" />
 </p>
 
 ---
