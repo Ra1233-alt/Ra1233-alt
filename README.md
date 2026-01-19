@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=HELLO%20WORLD&fontSize=50&fontColor=ffffff" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Kiran!</h1>
+<h1 align="center">👋 Hi, I'm Ratnakar choubey!</h1>
 <h3 align="center">Full Stack .NET Core Developer | Angular Specialist</h3>
 
 ---
