@@ -49,8 +49,8 @@
 
 ### 🌐 Connect With Me
 - 🌍 Portfolio: **https://yourusername.github.io**
-- 📧 Email: **yourmail@gmail.com**
-- 💼 LinkedIn: **https://linkedin.com/in/yourusername**
+- 📧 Email: **ratnakartsm@gmail.com**
+- 💼 LinkedIn: **www.linkedin.com/in/ratnakar-choubey-71806a2ab**
 
 ---
 
