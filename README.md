@@ -54,17 +54,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ra1233-alt &show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ra1233-alt &theme=radical" />
-</p>
-
----
-
 ### 👀 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ra1233-alt&color=brightgreen" />
