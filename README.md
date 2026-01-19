@@ -48,7 +48,8 @@
 ---
 
 ### 🌐 Connect With Me
-- 🌍 Portfolio: **https://rat-alt123.github.io**
+- 🌍 Portfolio: **https://github.com/rat-alt123/portfolio
+**
 - 📧 Email: **ratnakartsm@gmail.com**
 - 💼 LinkedIn: **www.linkedin.com/in/ratnakar-choubey-71806a2ab**
 
